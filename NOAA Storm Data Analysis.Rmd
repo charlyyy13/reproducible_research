@@ -164,6 +164,5 @@ plot1
 2. The events with the greatest economic consequences across the US are Floods (considering property) and Droughts considering (crops):
 ```{r}
 plot2
-ecoc
 ```
 
